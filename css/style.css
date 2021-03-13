@@ -1,6 +1,5 @@
-#img {
-    display: flex;
-    flex-direction: row;
-    margin: 0px 5%;
-  }
+body, html {
+    height: 600px;
+    padding: 25px;
+}
   
